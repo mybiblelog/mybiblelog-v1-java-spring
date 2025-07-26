@@ -1,8 +1,9 @@
 # MyBibleLog.com
 
-[![Build Status](https://travis-ci.com/mybiblelog/mybiblelog.svg?branch=master)](https://travis-ci.com/mybiblelog/mybiblelog)
-
-This repository contains the code that runs [mybiblelog.com](http://www.mybiblelog.com/).
+> [!NOTE]
+> This repository does NOT contain the live code for [mybiblelog.com](http://www.mybiblelog.com/).
+> 
+> This is the *original* code for the My Bible Log site, and this repo serves as a reference for where the project came from.
 
 ## Developing in Eclipse
 
